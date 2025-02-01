@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736751984 source:d:\central university notes\year two\first semester notes and work\programming practice (c programming)\understandingclanguage\learnhere.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
