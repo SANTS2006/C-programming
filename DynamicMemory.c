@@ -17,15 +17,17 @@ int main(){
     }
     else
     {
-        printf("Enter your details");
+        // printf("Enter your details");
 
-        s1-->sno = 10;
-        s1-->sname= "Newton";
-        s1-->sgpa = 5.0;
+        // s1-->sno = 10;
+        // s1-->sname= "Newton";
+        // s1-->sgpa = 5.0;
 
-        printf("Students details \n %d %s %f", s1-->sno, s1-->sname, s1--> sgpa);
+        // printf("Students details \n %d %s %f", s1-->sno, s1-->sname, s1--> sgpa);
         // scanf("%d %s %f",  &s1 --> sno, s1 --> sname, &s1 -- >sgpa);
         // printf("Student's details are %d \n %s \n %.2f \n", sno, sname, sgpa);
+
+        printf("This is me");
     }
 
 
